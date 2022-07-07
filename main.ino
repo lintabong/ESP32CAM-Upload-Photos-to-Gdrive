@@ -22,7 +22,7 @@ boolean takeNewPhoto = false;
 
 int counter = 0;
 
-// Photo File Name to save in SPIFFS
+// NAME FILE OF PHOTO to save in SPIFFS
 #define FILE_PHOTO "/photo.jpg"
 
 // OV2640 camera module pins (CAMERA_MODEL_AI_THINKER)
